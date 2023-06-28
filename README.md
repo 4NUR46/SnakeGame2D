@@ -1,0 +1,2 @@
+A simple 2D Snake game with a border and jumbo fruit.
+In this when the snake complete eating 3 fruit then the jumbo fruit will appear on the screen with different colour. Each time when the snake eats a regular fruit then the score will increase by 5 and when the snake eats jumbo fruit then the score will increase with 50. If the snake touch to the boundary or itself(own tail) then the game will be over with a pop screen. In the game over screen there will be two buttons 1 for replay the game and 1 for exit the game.
